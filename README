@@ -2,7 +2,6 @@
 This repository is created to share details of the MHIA 123 / HIA302 Individual Project.
 
 Files:
- 
 1.	horse-colic.txt :  Dataset saved in text formal with “,” as separator 
 2.	horse-colic.names.txt : Data dictionary 
 3.	horse-colic.csv : File horse-colic.txt been converted into comma separated value (csv) with no header and index. 
